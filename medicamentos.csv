@@ -1,0 +1,3 @@
+codigo;nome;descricao;principioAtivo;dataValidade;quantidadeEstoque;preco;controlado;cnpj;razaoSocial;telefone;email;cidade;estado
+0000001;Teste;Testando código;Teste;2027-10-24;123;12;true;03485228000107;teste;111111111;teste@gmail.com;Goiânia;GO
+0000002;Azorga;Colírio;Liquido;2026-11-12;13;89;false;03485228000107;Unifan;15615613135;teste@gmail.com;Senador Canedo;GO
